@@ -324,6 +324,10 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+ git once again
+
+}
 ];
         
  
